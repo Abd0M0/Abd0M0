@@ -1,57 +1,144 @@
+<h1 align="center">🛡️ Abdalrahman Mohamed</h1>
+<h3 align="center">SOC Analyst | DFIR | Threat Hunter</h3>
+
+<p align="center">
 <a href="https://www.linkedin.com/in/abdelrahman-mohammad-15a954237/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><br>
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
-# Hello, I'm Abdalrahman
+---
 
-A cybersecurity student with a passion for defending systems, analysing threats, and learning how attackers operate in real-world scenarios.
+## 👨‍💻 About Me
+Cybersecurity student with hands-on experience in **Security Operations, Threat Detection, and Incident Response**.
 
-## Objective
-I’m a Junior Cyber Analyst with hands-on experience in monitoring, detecting, and analyzing cybersecurity threats using SIEM tools and log analysis. I’m skilled in identifying Indicators of Compromise (IOCs), investigating phishing attacks, and analyzing attacker behavior using the MITRE ATT&CK framework. I’m looking for an opportunity to join a dynamic security team and continue growing in cyber defense, incident response, and digital forensics.
+I focus on building real-world SOC environments, analyzing attacker behavior, and automating security workflows.
 
-## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+🔹 Strong interest in: Detection Engineering, Digital Forensics, Threat Hunting  
+🔹 Currently learning: Cloud Security & DevSecOps  
+🔹 Goal: Become a **Security Engineer specializing in SOC & Incident Response**
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+---
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## ⚡ Core Competencies
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### 🔍 Threat Detection & Monitoring
+- SIEM log analysis (Splunk, Microsoft Sentinel)
+- Event correlation & alert tuning
+- Network traffic analysis (Zeek, Suricata, Wireshark)
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### 🚨 Incident Response
+- Alert triage & investigation
+- IOC analysis & enrichment
+- Phishing analysis
+- MITRE ATT&CK mapping
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+### 🤖 Security Automation
+- SOAR (Shuffle)
+- Playbook development
+- API integrations (VirusTotal, Webhooks)
+- Python for automation
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+---
+
+## 🛠️ Technical Stack
+
+| Category | Tools |
+|--------|------|
+| **SIEM** | Splunk, Microsoft Sentinel, Elastic |
+| **Network Analysis** | Wireshark, Zeek, Suricata |
+| **Endpoint Security** | Microsoft Defender for Endpoint, Velociraptor |
+| **SOAR & Automation** | Shuffle, Python |
+| **Case Management** | TheHive |
+
+---
+
+## 📂 Featured Projects
+
+### 🛡️ SOC Automation Lab
+**Automated Incident Response Pipeline using SOAR**
+
+- Integrated SIEM alerts with Shuffle
+- Automated IOC enrichment via VirusTotal API
+- Auto-created cases in TheHive
+- Reduced manual SOC workload
+
+🔧 **Tech Used:** Shuffle, Python, VirusTotal, TheHive  
+
+👉 https://github.com/yourusername/soc-automation
+
+---
+
+### 🔎 Detection Lab (Home SOC)
+**Simulated Enterprise SOC Environment**
+
+- Generated real attack scenarios (Brute force, malware, phishing)
+- Built detection rules in SIEM
+- Analyzed logs & created alerts
+
+🔧 **Tech Used:** Splunk / Sentinel, Sysmon, Zeek  
+
+👉 https://github.com/yourusername/detection-lab
+
+---
+
+### 🎣 Phishing Analysis Project
+**End-to-End Phishing Investigation**
+
+- Email header analysis
+- URL & domain investigation
+- IOC extraction & reporting
+
+🔧 **Tech Used:** Python, OSINT tools  
+
+👉 https://github.com/yourusername/phishing-analysis
+
+---
+
+## 🏆 Certifications
+
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
+- CDSA
+- CCD
+
+---
+
+## 📊 What I Bring
+
+✔ Ability to detect and analyze real-world attacks  
+✔ Hands-on SOC & SIEM experience  
+✔ Automation mindset (reduce manual work)  
+✔ Strong analytical and investigative skills  
+
+---
+
+## 📈 Current Focus
+
+- 📌 Digital Forensics & Incident Response (DFIR)
+- 📌 Detection Engineering
+- 📌 Cloud Security (Azure)
+- 📌 Malware Analysis & Reverse Engineering
+
+---
+
+## 🧠 Knowledge Frameworks
+
+- MITRE ATT&CK
+- Cyber Kill Chain
+- IOC-based Detection
+- Log Correlation Techniques
+
+---
+
+## 💡 Philosophy
+
+> "Security is not just about tools — it's about understanding the attacker."
+
+---
+
+## 📬 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/abdelrahman-mohammad-15a954237/
+
+---
