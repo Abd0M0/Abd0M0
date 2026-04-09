@@ -9,136 +9,44 @@
 
 ---
 
-## 👨‍💻 About Me
-Cybersecurity student with hands-on experience in **Security Operations, Threat Detection, and Incident Response**.
+## 🧑‍💻 About Me
+Abdelrahman Mohamed is a **cybersecurity enthusiast and Security Analyst** with a strong interest in understanding how attacks work and how to defend against them. His main areas of focus include **Threat Hunting, Incident Response, and Digital Forensics**.
 
-I focus on building real-world SOC environments, analyzing attacker behavior, and automating security workflows.
+He enjoys continuously learning new technologies, developing practical security skills, and exploring modern security operations. Abdelrahman also likes **sharing knowledge through technical writing, projects, and research** to help others learn more about cybersecurity.
 
-🔹 Strong interest in: Detection Engineering, Digital Forensics, Threat Hunting  
-🔹 Currently learning: Cloud Security & DevSecOps  
-🔹 Goal: Become a **Security Engineer specializing in SOC & Incident Response**
+Through hands-on labs, security tools, and real-world scenarios, he is constantly working on improving his skills in security analysis, investigation, and system protection.
 
----
+Currently, he is focused on **memory forensics, threat hunting techniques, and incident response** through hands-on labs and practical exercises.
 
-## ⚡ Core Competencies
-
-### 🔍 Threat Detection & Monitoring
-- SIEM log analysis (Splunk, Microsoft Sentinel)
-- Event correlation & alert tuning
-- Network traffic analysis (Zeek, Suricata, Wireshark)
-
-### 🚨 Incident Response
-- Alert triage & investigation
-- IOC analysis & enrichment
-- Phishing analysis
-- MITRE ATT&CK mapping
-
-### 🤖 Security Automation
-- SOAR (Shuffle)
-- Playbook development
-- API integrations (VirusTotal, Webhooks)
-- Python for automation
+**Outside of cybersecurity:** Abdelrahman enjoys reading, going to the gym, running, and connecting with people. These personal interests help him stay balanced and motivated in both his professional and personal life.
 
 ---
 
-## 🛠️ Technical Stack
-
-| Category | Tools |
-|--------|------|
-| **SIEM** | Splunk, Microsoft Sentinel, Elastic |
-| **Network Analysis** | Wireshark, Zeek, Suricata |
-| **Endpoint Security** | Microsoft Defender for Endpoint, Velociraptor |
-| **SOAR & Automation** | Shuffle, Python |
-| **Case Management** | TheHive |
+## 🎓 Education
+**Borg Al Arab Technological University (BATU), Egypt**  
+Bachelor's Degree in **Information Technology (Computer Networking)**  
+2022 — 2026 | Excellent Academic Standing  
 
 ---
 
-## 📂 Featured Projects
-
-### 🛡️ SOC Automation Lab
-**Automated Incident Response Pipeline using SOAR**
-
-- Integrated SIEM alerts with Shuffle
-- Automated IOC enrichment via VirusTotal API
-- Auto-created cases in TheHive
-- Reduced manual SOC workload
-
-🔧 **Tech Used:** Shuffle, Python, VirusTotal, TheHive  
-
-👉 https://github.com/yourusername/soc-automation
+## 💻 Core Skills
+- **Cyber Defense Frameworks & SIEM:** Splunk, ELK, QRadar  
+- **Threat Hunting & Incident Response:** Log Analysis, Network Traffic Analysis, Incident Reporting  
+- **Forensics:** Memory Analysis, Disk Analysis, Windows & Linux Forensics, Network & Email Forensics  
+- **Frameworks & Methodologies:** MITRE ATT&CK  
 
 ---
 
-### 🔎 Detection Lab (Home SOC)
-**Simulated Enterprise SOC Environment**
-
-- Generated real attack scenarios (Brute force, malware, phishing)
-- Built detection rules in SIEM
-- Analyzed logs & created alerts
-
-🔧 **Tech Used:** Splunk / Sentinel, Sysmon, Zeek  
-
-👉 https://github.com/yourusername/detection-lab
+## 🛠️ Projects
+| Project | Description | Link |
+|---------|-------------|--------------|
+| **Windows and Linux Artifact Deep Dive** | Performs a deep comparative analysis of artifacts across Windows and Linux operating systems. | https://github.com/Abd0M0/Windows-and-Linux-Artifact-Deep-Dive |
+| **Splunk & AD Lab Environment** | I deployed Ubuntu Server (Splunk), Windows Server with a domain controller, Windows 10 as a target machine, and Kali Linux for attacking purposes. | https://github.com/Abd0M0/Splunk-Active-Directory-SOC-Monitoring-Lab |
 
 ---
 
-### 🎣 Phishing Analysis Project
-**End-to-End Phishing Investigation**
+## 📫 Contact Me
+- **Email:** `abdalrahmanmohamed51515@gmail.com`  
+- **LinkedIn:** [Abdelrahman Mohamed](https://www.linkedin.com/in/abdelrahman-mohammad-15a954237/)  
 
-- Email header analysis
-- URL & domain investigation
-- IOC extraction & reporting
 
-🔧 **Tech Used:** Python, OSINT tools  
-
-👉 https://github.com/yourusername/phishing-analysis
-
----
-
-## 🏆 Certifications
-
-- CompTIA Security+
-- CompTIA Network+
-- CompTIA A+
-- CDSA
-- CCD
-
----
-
-## 📊 What I Bring
-
-✔ Ability to detect and analyze real-world attacks  
-✔ Hands-on SOC & SIEM experience  
-✔ Automation mindset (reduce manual work)  
-✔ Strong analytical and investigative skills  
-
----
-
-## 📈 Current Focus
-
-- 📌 Digital Forensics & Incident Response (DFIR)
-- 📌 Detection Engineering
-- 📌 Cloud Security (Azure)
-- 📌 Malware Analysis & Reverse Engineering
-
----
-
-## 🧠 Knowledge Frameworks
-
-- MITRE ATT&CK
-- Cyber Kill Chain
-- IOC-based Detection
-- Log Correlation Techniques
-
----
-
-## 💡 Philosophy
-
-> "Security is not just about tools — it's about understanding the attacker."
-
----
-
-## 📬 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/abdelrahman-mohammad-15a954237/
-
----
