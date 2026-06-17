@@ -40,6 +40,7 @@ Bachelor's Degree in **Information Technology (Computer Networking)**
 ## 🛠️ Projects
 | Project | Description | Link |
 |---------|-------------|--------------|
+| **CyberShield ML Detection** | CyberShield ML is a Network Intrusion Detection System (NIDS) built entirely in Python. It trains machine learning models on real network traffic datasets and classifies flows as BENIGN or attack |https://github.com/Abd0M0/CyberShield-ML-Detection|
 | **Windows and Linux Artifact Deep Dive** | Performs a deep comparative analysis of artifacts across Windows and Linux operating systems. | https://github.com/Abd0M0/Windows-and-Linux-Artifact-Deep-Dive |
 | **Splunk & AD Lab Environment** | I deployed Ubuntu Server (Splunk), Windows Server with a domain controller, Windows 10 as a target machine, and Kali Linux for attacking purposes. | https://github.com/Abd0M0/Splunk-Active-Directory-SOC-Monitoring-Lab |
 
