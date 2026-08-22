@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Abdalrahman Mohamed</h1>
+<h1 align="center"> Abdalrahman Mohamed</h1>
 <h3 align="center">SOC Analyst | DFIR | Threat Hunter</h3>
 
 <p align="center">
